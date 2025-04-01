@@ -15,11 +15,11 @@ Oferecer oportunidades para estudantes que buscam experiência profissional e de
 Tornar-se referência nos programas de estágio das faculdades brasileiras e ser reconhecida como a melhor parceira tecnológica para pequenos empreendedores.
 
 ### 🤝 Nossos Valores
-- ✔️ Honestidade
-- ✔️ Respeito
-- ✔️ Colaboração
-- ✔️ Aprendizagem
-- ✔️ Comprometimento
+- Honestidade
+- Respeito
+- Colaboração
+- Aprendizagem
+- Comprometimento
 
 💡 "O estágio não remunerado de hoje pode ser a porta para o emprego dos sonhos de amanhã." 🚀
 
@@ -27,9 +27,9 @@ Tornar-se referência nos programas de estágio das faculdades brasileiras e ser
 Os testes aplicados neste desafio serão simples, mas estratégicos, com a finalidade de avaliar e nivelar os estagiários da TT&T Soluções em Informática. O principal intuito é garantir que todos tenham um entendimento sólido sobre os fundamentos do desenvolvimento front-end, possibilitando um aprendizado mais estruturado e eficiente.
 
 Este desafio não possui caráter eliminatório! Pelo contrário, trata-se de uma excelente oportunidade para:
-- ✅ Identificar pontos de melhoria em suas habilidades.
-- ✅ Reforçar conhecimentos fundamentais para o seu crescimento.
-- ✅ Preparar-se para desafios reais dentro do ambiente de trabalho.
+- Identificar pontos de melhoria em suas habilidades.
+- Reforçar conhecimentos fundamentais para o seu crescimento.
+- Preparar-se para desafios reais dentro do ambiente de trabalho.
 
 ## 🎯 O Compromisso da TT&T no Front End
 A missão da TT&T é proporcionar aos seus estagiários um ambiente de aprendizado contínuo e enriquecedor, assegurando que cada um aproveite ao máximo essa experiência. Queremos que você saia deste estágio não apenas com conhecimento técnico, mas também com a capacidade de enfrentar desafios com segurança e criatividade.
@@ -37,22 +37,27 @@ Por isso, este nivelamento será um passo essencial para alinhar suas habilidade
 
 ## 🔥 Dica Extra: Destaque-se no Mercado!
 O aprendizado não termina aqui! Além de concluir este desafio com dedicação, aproveite para compartilhar suas conquistas e experiências em suas redes sociais, como:
-- 🔹 **LinkedIn** – Fale sobre seu aprendizado, desafios superados e insights adquiridos. Isso ajuda a atrair a atenção de recrutadores e profissionais da área.
-- 🔹 **GitHub** – Publique códigos e projetos relacionados ao desafio para demonstrar suas habilidades técnicas. Um portfólio atualizado aumenta suas chances no mercado.
-- 🔹 **Outras redes e comunidades** – Participe de fóruns, grupos e eventos da área de tecnologia. Criar conexões fortalece sua network e abre portas para novas oportunidades.
+- **LinkedIn** – Fale sobre seu aprendizado, desafios superados e insights adquiridos. Isso ajuda a atrair a atenção de recrutadores e profissionais da área.
+- **GitHub** – Publique códigos e projetos relacionados ao desafio para demonstrar suas habilidades técnicas. Um portfólio atualizado aumenta suas chances no mercado.
+- **Outras redes e comunidades** – Participe de fóruns, grupos e eventos da área de tecnologia. Criar conexões fortalece sua network e abre portas para novas oportunidades.
 
 📢 **Lembre-se**: Mostrar seu desenvolvimento e engajamento é uma forma inteligente de se destacar e conquistar novas oportunidades no mundo da tecnologia!
 
 ## ❓ Tem dúvidas? Não fique preso!
 Sabemos que aprender envolve desafios, e você não está sozinho! Caso tenha dúvidas, busque ajuda com os responsáveis por suas dailies. Eles poderão:
-- 🔹 Direcioná-lo a um membro específico da equipe que possa auxiliá-lo.
-- 🔹 Compartilhar insights e referências para facilitar seu entendimento.
-- 🔹 Incentivar o trabalho em equipe e a troca de conhecimentos.
+- Direcioná-lo a um membro específico da equipe que possa auxiliá-lo.
+- Compartilhar insights e referências para facilitar seu entendimento.
+- Incentivar o trabalho em equipe e a troca de conhecimentos.
+- Os arquivos protegidos por senha devem ser solicitados aos responsáveis pelas dailies.
 
 ## 🚀 O aprendizado é uma jornada!
 Aqui na TT&T, acreditamos que o crescimento é constante e que todos somos estagiários em busca do melhor conhecimento. Portanto, encare este desafio com motivação e dedicação.
 
 **💡 Dica:** Aproveite cada teste como uma oportunidade de aprimorar suas habilidades e explorar novas soluções. O desenvolvimento front-end é dinâmico, e quanto mais você praticar, mais confiante e preparado estará para enfrentar novos desafios.
 
+<<<<<<< HEAD
 **🔗 Compartilhe seu progresso, conecte-se com a comunidade e esteja pronto para crescer! 🚀**# Desafio-de-Nivelamento-TT-T-Solu-es-em-Inform-tica-Acelere-sua-evolu-o-como-desenvolvedor
 # Desafio-de-Nivelamento-TT-T-Acelere-sua-evolucao-como-desenvolvedor
+=======
+**🔗 Compartilhe seu progresso, conecte-se com a comunidade e esteja pronto para crescer! 🚀**
+>>>>>>> 6236f7f (:memo: docs(README): Atualizar documentação geral)
