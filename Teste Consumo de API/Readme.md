@@ -17,7 +17,7 @@ Na TT&T Soluções em Informática, valorizamos o aprendizado contínuo e o cres
 Este projeto consiste no desenvolvimento de uma aplicação web utilizando **HTML, CSS e JavaScript** para buscar perfis do GitHub e exibir suas principais informações de forma dinâmica e interativa. A interface seguirá o layout fornecido no Figma, e os dados serão obtidos através da API do GitHub.
 
 
-[🔗 Acesse o layout no Figma](https://www.figma.com/design/sESIqQpC3622oIK9CEKxVg/Desafios-TT%26T?node-id=0-1&m=dev&t=KTFol24BWyurpFH8-1) - Solicitar a senha ao responsável os seu orientador
+[🔗 Acesse o layout no Figma](https://www.figma.com/design/sESIqQpC3622oIK9CEKxVg/Desafios-TT%26T?node-id=0-1&m=dev&t=KTFol24BWyurpFH8-1) 
 
 [🔗 Documentação da API do GitHub](https://docs.github.com/pt/rest/users/users?apiVersion=2022-11-28)
 
