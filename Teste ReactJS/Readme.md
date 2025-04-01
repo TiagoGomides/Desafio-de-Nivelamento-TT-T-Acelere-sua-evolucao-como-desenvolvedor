@@ -1,13 +1,13 @@
-# 🚀 Desafio de Nivelamento – TT&T Soluções em Informática
+# 🚀 Desafio de Nivelamento – React JS
 O teste aplicado será um desafio simples, com o objetivo de avaliar e nivelar os estagiários, garantindo que compreenderam os fundamentos da construção de uma página web bem estruturada, utilizando ReactJS.
 
 ### 🔍 Conceitos que você irá aplicar:
-- ✔️ Documentação do Código – README.md
-- ✔️ CSS – Estilização da aplicação
-- ✔️ React.js – Componentização e reutilização de código
-- ✔️ React Router – Navegação entre páginas
-- ✔️ Markdown – Formatação estruturada do README
-- ✔️ Interpretação de Figma – Transformação de design em código
+- Documentação do Código – README.md
+- CSS – Estilização da aplicação
+- React.js – Componentização e reutilização de código
+- React Router – Navegação entre páginas
+- Markdown – Formatação estruturada do README
+- Interpretação de Figma – Transformação de design em código
 
 Na TT&T Soluções em Informática, valorizamos o aprendizado contínuo e o crescimento dos nossos estagiários. Nosso compromisso é ajudá-los a aprimorar suas práticas de programação, compreender os princípios essenciais do desenvolvimento web e dominar as competências exigidas pelo mercado.
 
@@ -29,11 +29,11 @@ O principal objetivo deste teste é avaliar a compreensão do estagiário sobre 
 Para garantir a clareza e organização do seu projeto, é fundamental documentá-lo adequadamente no arquivo README.md.
 
 ⚡ Dicas para um README.md eficiente:
-- ✔️ Explique o objetivo do projeto de forma clara e concisa.
-- ✔️ Liste as tecnologias utilizadas e os pré-requisitos para rodar o código.
-- ✔️ Forneça instruções detalhadas de instalação e execução.
-- ✔️ Adicione exemplos de uso e capturas de tela da aplicação (se aplicável).
-- ✔️ Caso o projeto aceite contribuições, inclua um guia para colaboradores.
+- Explique o objetivo do projeto de forma clara e concisa.
+- Liste as tecnologias utilizadas e os pré-requisitos para rodar o código.
+- Forneça instruções detalhadas de instalação e execução.
+- Adicione exemplos de uso e capturas de tela da aplicação (se aplicável).
+- Caso o projeto aceite contribuições, inclua um guia para colaboradores.
 
 🛠 Capriche na organização e torne seu código acessível para todos! 🚀
 

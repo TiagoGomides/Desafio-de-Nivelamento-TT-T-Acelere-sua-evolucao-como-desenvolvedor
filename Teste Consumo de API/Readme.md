@@ -1,12 +1,12 @@
-# 🚀 Desafio de Nivelamento – TT&T Soluções em Informática
+# 🚀 Desafio de Nivelamento – Consumo de API
 O teste aplicado será um desafio simples, com o objetivo de avaliar e nivelar os estagiários, garantindo que compreenderam os fundamentos da construção de uma página web bem estruturada, responsiva e dinâmica, integrando uma API externa.
 ### 🔍 Conceitos que você irá aplicar:
-- ✔️ Documentação do Código – README.md
-- ✔️ HTML Semântico
-- ✔️ CSS – Estilização e responsividade
-- ✔️ JavaScript – Lógica e interatividade
-- ✔️ Markdown – Para formatação do README
-- ✔️ Interpretação de Figma – Transformando um design em código
+- Documentação do Código – README.md
+- HTML Semântico
+- CSS – Estilização e responsividade
+- JavaScript – Lógica e interatividade
+- Markdown – Para formatação do README
+- Interpretação de Figma – Transformando um design em código
 
 Na TT&T Soluções em Informática, valorizamos o aprendizado contínuo e o crescimento dos nossos estagiários. Nosso objetivo é ajudá-los a aprimorar suas práticas de programação, compreender os princípios essenciais do desenvolvimento web e dominar as competências exigidas pelo mercado.
 
@@ -49,11 +49,11 @@ Para garantir a clareza e a organização do seu projeto, documente seu código 
 Utilize tudo o que aprendeu até aqui para criar uma documentação limpa, objetiva e bem formatada.
 
 ### ⚡ Dicas para um README.md eficiente:
-- ✔️ Explique o objetivo do projeto de forma clara e concisa.
-- ✔️ Liste as tecnologias utilizadas e os pré-requisitos para rodar o código.
-- ✔️ Forneça instruções detalhadas de instalação e execução.
-- ✔️ Adicione exemplos de uso e prints da aplicação (se aplicável).
-- ✔️ Caso o projeto aceite contribuições, inclua um guia para colaboradores.
+- Explique o objetivo do projeto de forma clara e concisa.
+- Liste as tecnologias utilizadas e os pré-requisitos para rodar o código.
+- Forneça instruções detalhadas de instalação e execução.
+- Adicione exemplos de uso e prints da aplicação (se aplicável).
+- Caso o projeto aceite contribuições, inclua um guia para colaboradores.
 
 🛠 Capriche na organização e torne seu código acessível para todos! 🚀
 
