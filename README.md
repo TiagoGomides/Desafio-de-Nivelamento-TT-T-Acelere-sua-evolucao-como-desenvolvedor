@@ -30,6 +30,7 @@ Este desafio não possui caráter eliminatório! Pelo contrário, trata-se de um
 - Identificar pontos de melhoria em suas habilidades.
 - Reforçar conhecimentos fundamentais para o seu crescimento.
 - Preparar-se para desafios reais dentro do ambiente de trabalho.
+- Os arquivos protegidos por senha devem ser solicitado ao responsavel por sua daily.
 
 ## 🎯 O Compromisso da TT&T no Front End
 A missão da TT&T é proporcionar aos seus estagiários um ambiente de aprendizado contínuo e enriquecedor, assegurando que cada um aproveite ao máximo essa experiência. Queremos que você saia deste estágio não apenas com conhecimento técnico, mas também com a capacidade de enfrentar desafios com segurança e criatividade.
@@ -55,9 +56,4 @@ Aqui na TT&T, acreditamos que o crescimento é constante e que todos somos estag
 
 **💡 Dica:** Aproveite cada teste como uma oportunidade de aprimorar suas habilidades e explorar novas soluções. O desenvolvimento front-end é dinâmico, e quanto mais você praticar, mais confiante e preparado estará para enfrentar novos desafios.
 
-<<<<<<< HEAD
-**🔗 Compartilhe seu progresso, conecte-se com a comunidade e esteja pronto para crescer! 🚀**# Desafio-de-Nivelamento-TT-T-Solu-es-em-Inform-tica-Acelere-sua-evolu-o-como-desenvolvedor
-# Desafio-de-Nivelamento-TT-T-Acelere-sua-evolucao-como-desenvolvedor
-=======
 **🔗 Compartilhe seu progresso, conecte-se com a comunidade e esteja pronto para crescer! 🚀**
->>>>>>> 6236f7f (:memo: docs(README): Atualizar documentação geral)
